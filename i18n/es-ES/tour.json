@@ -1,0 +1,29 @@
+{
+  "actions": {
+    "skip": "Omitir",
+    "next": "Siguiente",
+    "start": "Facturar"
+  },
+  "slides": {
+    "welcome": {
+      "heading": "👋 ¡Bienvenidos!",
+      "description": "Agradecemos la oportunidad brindada. Con sólo 3 sencillos pasos les vamos a demostrar cómo crear unas facturas impresionantes"
+    },
+    "create": {
+      "heading": "Paso 1. Crear",
+      "description": "Manta utiliza una interfaz simple y flexible por defecto, siempre permitiendo le activar o desactivar campos adicionales en caso de ser requeridos."
+    },
+    "preview": {
+      "heading": "Paso 2. Personalizar",
+      "description": "Manta incluye plantillas con estilos profesionales que se pueden personalizar para adaptarse a su propio diseño.."
+    },
+    "save": {
+      "heading": "Paso 3. Guardar",
+      "description": "Una vez satisfecho con el aspecto de la factura puedes guardarlo como un PDF para su uso posterior. Puedes Imprimirlo o enviarlo por correo electrónico, ¡utilice Manta para sorprender a sus clientes ya!"
+    },
+    "success": {
+      "heading": "¡Listo! ✋️",
+      "description": "Ahí lo tienes, los 3 simples pasos para crear impresionantes facturas con Manta. Recuerde actualizar el perfil y el logotipo de la empresa antes de utilizar realmente la factura."
+    }
+  }
+}

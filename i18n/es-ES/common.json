@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "fullname": "Nombre Completo",
+    "company": "Empresa",
+    "address": "Dirección",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "website": "Sitio Web"
+  },
+  "save": "Guardar",
+  "amount": "Monto",
+  "default": "Predeterminado",
+  "saveAsDefault": "¿Guardar como Predeterminado?",
+  "yes": "Sí",
+  "noThanks": "No"
+}

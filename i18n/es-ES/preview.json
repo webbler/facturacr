@@ -1,0 +1,45 @@
+{
+  "sidebar": {
+    "template": {
+      "name": "Plantilla",
+      "minimal": "Simple",
+      "business": "Comercial"
+    },
+    "alignment": {
+      "name": "Alineamiento",
+      "top": "Superior",
+      "middle": "Centro",
+      "bottom": "Inferior"
+    },
+    "fontSize": "Tamaño del texto",
+    "toggle": {
+      "name": "Toggle",
+      "logo": "Logotipo",
+      "symbol": "Símbolo",
+      "recipient": "Receptor"
+    },
+    "accentColor": {
+      "name" : "Color de la Tonalidad",
+      "useCustom": "Utilizar la Personalizada"
+    },
+    "actions": {
+      "name": "Aplicaciones",
+      "savePDF": "Exportar PDF",
+      "saveConfigs": "Guardar Configuraciones"
+    }
+  },
+  "common": {
+    "billedTo": "Facturar a",
+    "chooseInvoiceToPreview": "Por favor, elija una factura para obtener una vista previa",
+    "created": "Emitido",
+    "due": "Vencimiento",
+    "invoice": "Factura",
+    "itemDescription": "Descripción del Artículo",
+    "notice": "Observaciones",
+    "order": "No",
+    "price": "Precio",
+    "qty": "Cantidad",
+    "subtotal": "Subtotal",
+    "total": "Total"
+  }
+}

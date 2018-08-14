@@ -1,0 +1,16 @@
+{
+  "noContact": "Aún no tienes clientes",
+  "noInvoice": "Aún no has creado una factura",
+  "invoice": {
+    "saved": "Factura guardada exitosamente",
+    "updated": "Factura actualizada exitosamente",
+    "deleted": "Factura eliminada exitosamente"
+  },
+  "contact": {
+    "saved": "Cliente guardado exitosamente",
+    "deleted": "Cliente eliminado exitosamente"
+  },
+  "settings": {
+    "saved": "Todos los ajustes han sido guardados con éxito"
+  }
+}

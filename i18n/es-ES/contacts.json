@@ -1,0 +1,9 @@
+{
+  "header": "Todos los Clientes",
+  "fields": {
+    "contact": "Cliente",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "actions": "Actuaciones"
+  }
+}
