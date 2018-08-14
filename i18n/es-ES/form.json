@@ -10,56 +10,56 @@
   },
   "settings": {
     "name": "Configurar Formulario",
-    "hint": "Toogle any field to make it required in the form."
+    "hint": "Accione cualquier campo para que sea requerido en el formulario."
   },
   "fields": {
     "items": {
       "name": "Producto/Servicio",
-      "description": "Descripcion",
+      "description": "Descripción",
       "price": "Precio",
       "quantity": "Cantidad",
-      "add": "Agregar Articulo"
+      "add": "Agregar Artículo"
     },
     "recipient": {
-      "name": "Recipient",
-      "select": "Select",
-      "add": "Create New"
+      "name": "Receptor",
+      "select": "Seleccionar",
+      "add": "Crear Cliente"
     },
     "discount": {
       "name": "Descuento",
       "percentage": "Porcentage",
-      "flat": "Flat Rate"
+      "flat": "Tarifa Plana"
     },
     "dueDate": {
-      "name": "Due Date",
-      "placeHolder": "Select a custom date",
+      "name": "Fecha Vencimiento",
+      "placeHolder": "Selecciona una fecha",
       "paymentTerms": {
-        "name": "Select a Payment Term",
+        "name": "Seleccione término de pago",
         "net7": {
-          "label": "Net 7",
-          "description": "Payment seven days after invoice date"
+          "label": "Neto 7",
+          "description": "Pago a los siete días de la fecha de la factura"
         },
         "net10": {
-          "label": "Net 10",
-          "description": "Payment ten days after invoice date"
+          "label": "Neto 10",
+          "description": "Pago a los diez días de la fecha de la factura"
         },
         "net30": {
-          "label": "Net 30",
-          "description": "Payment 30 days after invoice date"
+          "label": "Neto 30",
+          "description": "Pago a los treinta días de la fecha de la factura"
         },
         "net60": {
-          "label": "Net 60",
-          "description": "Payment 60 days after invoice date"
+          "label": "Neto 60",
+          "description": "Pago a los sesenta días de la fecha de la factura"
         },
         "net90": {
-          "label": "Net 90",
-          "description": "Payment 90 days after invoice date"
+          "label": "Neto 90",
+          "description": "Pago a los sesenta días de la fecha de la factura"
         }
       }
     },
     "tax": {
       "name": "Impuesto",
-      "id": "Numero Contribuidor",
+      "id": "Número Contribuyente",
       "method": "Tipo",
       "reverse": "Cobro Revertido"
     },
